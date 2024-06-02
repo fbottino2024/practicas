@@ -1,5 +1,5 @@
 # practicas
 Proyecto para trabajar con git
-pendientes
+Pendientes
 - Agregar un gitignore
 - Agregar nuevos ejemplos en el repositorio
